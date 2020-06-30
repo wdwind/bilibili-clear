@@ -10,10 +10,6 @@
     display: none;
 }
 
-.level-link {
-    display: none;
-}
-
 .pendant {
     display: none !important;
 }
@@ -24,6 +20,10 @@
 
 .level {
     display: none !important;
+}
+
+.level-link {
+    margin-right: 10px;
 }
 
 .personal-auth {

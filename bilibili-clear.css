@@ -18,6 +18,26 @@
     display: none !important;
 }
 
+.p-auth {
+    display: none;
+}
+
+.level {
+    display: none !important;
+}
+
+.personal-auth {
+    display: none !important;
+}
+
+.m-level {
+    display: none !important;
+}
+
+.h-vipType {
+    display: none !important;
+}
+
 .bb-comment .comment-list .list-item .user-face img, .comment-bilibili-fold .comment-list .list-item .user-face img {
     border-radius: 0%;
 }
@@ -40,6 +60,25 @@
 
 .live-card .up .up-cover .face {
     border-radius: 0%;
+}
+
+.user-card-m .face {
+    border: none;
+    border-radius: 0%;
+}
+
+.user-card-m .face img {
+    border-radius: 0%;
+}
+
+.h-avatar {
+    border: none !important;
+    border-radius: 0px !important;
+}
+
+#h-avatar {
+    background: none !important;
+    border-radius: 0px !important;
 }
 
 a[href^="//app.bilibili.com"] {

@@ -38,6 +38,10 @@
     display: none !important;
 }
 
+.true-love {
+    display: none;
+}
+
 .bb-comment .comment-list .list-item .user-face img, .comment-bilibili-fold .comment-list .list-item .user-face img {
     border-radius: 0%;
 }
